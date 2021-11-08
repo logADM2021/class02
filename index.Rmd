@@ -3,7 +3,7 @@ title: "Logística"
 subtitle: "Encontro Síncrono 02"
 author: 
   - <br></br>Renata Oliveira
-date: '25/10/2021'
+date: '08/11/2021'
 output:
   xaringan::moon_reader:
     lib_dir: libs
